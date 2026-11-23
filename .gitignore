@@ -1,0 +1,21 @@
+/.protocol/
+/.voice-python/
+/.venv/
+/node_modules/
+__pycache__/
+*.pyc
+
+# Local credentials, listener state and diagnostics
+.env
+.env.*
+*.dpapi
+connection.json
+bridge-state.json
+bridge-health.json
+*.log
+/AGENTS.md
+/docs/superpowers/
+/activate-chats.ps1
+/check-chats.mjs
+/check-voice-codec.py
+/TeenCare-TC034-QR.png
